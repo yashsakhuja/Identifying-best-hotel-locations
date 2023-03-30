@@ -17,7 +17,7 @@ To Improve:
 
 a) Make functions to pass the list of shortlisted hotel names (possibly from another webscrapping) with prices and selcting best location hotels.
 
-b) Optimising travel iternaries
+b) Using ML to pick hotel location and optimisng travel iternaries
 
 P.S. I'm going to Portsmouth soon so the hotel is the one I picked (hope I had this resouce while doing my hotel research ;) )
 
