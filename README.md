@@ -12,3 +12,6 @@ Packages: #pandas #numpy #BeautifulSoup #requests #Nominatim #geopandas #geopy #
 
 To Improve: 
 1) Make functions to pass the list of shortlisted hotel names (possibly from another webscrapping) with prices and selcting best location hotels.
+2) Optimising travel iternaries
+
+P.S. I'm going to Portsmouth soon so the hotel is the one I picked (hope I have this resouce while doing my hotel research ;) )
