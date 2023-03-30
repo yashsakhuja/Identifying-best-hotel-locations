@@ -21,6 +21,9 @@ a) Make functions to pass the list of shortlisted hotel names (possibly from ano
 
 b) Using ML to pick hotel location and optimisng travel iternaries
 
+How to read file:
+
+Extracted places from PlanetWare site on PortsmouthIternary stored in PortsmoutPlaces.csv and the combined with Expedia data in Portsmouth Destination list and Mapping file. Portsmouth Cleaned data used in Alteryx to do data pre processing (could have been done in python). Final Data in PortsmouthPlacesFinal and Portsmouth Map.jpg generated through alteryx.
 
 P.S. I'm going to Portsmouth soon so the hotel is the one I picked (hope I had this resouce while doing my hotel research ;) )
 
