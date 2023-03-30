@@ -19,5 +19,5 @@ a) Make functions to pass the list of shortlisted hotel names (possibly from ano
 
 b) Optimising travel iternaries
 
-P.S. I'm going to Portsmouth soon so the hotel is the one I picked (hope I have this resouce while doing my hotel research ;) )
+P.S. I'm going to Portsmouth soon so the hotel is the one I picked (hope I had this resouce while doing my hotel research ;) )
 
