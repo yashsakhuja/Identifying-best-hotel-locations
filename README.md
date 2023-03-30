@@ -13,6 +13,8 @@ Expedia: https://www.expedia.co.uk/Things-To-Do-In-Portsmouth.d55324863433519657
 
 Packages: #pandas #numpy #BeautifulSoup #requests #Nominatim #geopandas #geopy #geopy.geocoders #geopy.extra.rate_limiter
 
+Used alteryx for spatial data processing- Alteryx data file attached.
+
 To Improve: 
 
 a) Make functions to pass the list of shortlisted hotel names (possibly from another webscrapping) with prices and selcting best location hotels.
