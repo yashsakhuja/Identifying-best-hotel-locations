@@ -14,7 +14,9 @@ Expedia: https://www.expedia.co.uk/Things-To-Do-In-Portsmouth.d55324863433519657
 Packages: #pandas #numpy #BeautifulSoup #requests #Nominatim #geopandas #geopy #geopy.geocoders #geopy.extra.rate_limiter
 
 To Improve: 
+
 a) Make functions to pass the list of shortlisted hotel names (possibly from another webscrapping) with prices and selcting best location hotels.
+
 b) Optimising travel iternaries
 
 P.S. I'm going to Portsmouth soon so the hotel is the one I picked (hope I have this resouce while doing my hotel research ;) )
